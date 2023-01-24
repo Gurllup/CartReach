@@ -1,0 +1,1 @@
+"Automated Abandoned Cart Recovery and Personalization", this epic would include all the user stories created to achieve the goal of recovering abandoned carts, personalizing emails, and providing insights to the store owners.
