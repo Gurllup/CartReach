@@ -1,3 +1,3 @@
 - Set up your .env file by running the command `cp .env.example .env`
-- Run `composer install`
-- Generate an encryption key for your project by running the command `php artisan key:generate`
+- Run `docker-compose up`
+- :)
