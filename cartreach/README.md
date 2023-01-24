@@ -1,3 +1,3 @@
 - Set up your .env file by running the command `cp .env.example .env`
-- Run `docker-compose up`
+- Run `docker-compose --env-file .env up`
 - :)
